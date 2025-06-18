@@ -7,7 +7,7 @@
   "author": "Anthony Morris <anthony@amorrissound.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^17.9.2",
+    "@octokit/rest": "^20.0.0",
     "dotenv": "^8.2.0",
     "got": "^11.1.4",
     "lodash.get": "^4.4.2",
